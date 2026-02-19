@@ -1,5 +1,5 @@
 📊 Live Dashboard
-👉 Tableau Public: View Interactive Dashboard (coming soon)
+👉 Tableau Public: [View Interactive Dashboard (coming soon)](https://public.tableau.com/app/profile/kyle.morgan3469/viz/HiddenconcetrationinETFPortfolios/Dashboard1?publish=yes)
 
 🎯 Business Problem
 
